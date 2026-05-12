@@ -1,0 +1,6 @@
+{
+  "serverBaseUrl": "https://new-ngrok-link.ngrok-free.dev",
+  "enabled": true,
+  "version": 2,
+  "refreshAfterFailureHours": 24
+}
