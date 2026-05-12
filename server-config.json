@@ -2,5 +2,5 @@
   "serverBaseUrl": "https://unclip-agreement-self.ngrok-free.dev",
   "enabled": true,
   "version": 3,
-  "refreshAfterFailureHours": 0
+  "refreshAfterFailureHours": 24
 }
